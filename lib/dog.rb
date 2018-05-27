@@ -20,5 +20,3 @@ class Dog
   @breed
   end
 end
-
-Dog.new(name,"Mutt")
